@@ -1,2 +1,2 @@
-# Python beginners bootcamp
-These exercises are completely for python beginners those want can clone, download or fork it your repositories 
+# Python beginners Bootcamp
+These exercises are completely for python beginners those want they can clone, download or fork it your repositories 
